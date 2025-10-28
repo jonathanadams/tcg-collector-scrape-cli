@@ -1,0 +1,1943 @@
+{
+  "name": "Prismatic Evolutions",
+  "code": "PRE",
+  "cards": [
+    {
+      "name": "Exeggcute",
+      "number": "001/131",
+      "rarity": "Common",
+      "energyType": "Grass",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Exeggutor",
+      "number": "002/131",
+      "rarity": "Uncommon",
+      "energyType": "Grass",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Pinsir",
+      "number": "003/131",
+      "rarity": "Common",
+      "energyType": "Grass",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Budew",
+      "number": "004/131",
+      "rarity": "Common",
+      "energyType": "Grass",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Gym",
+        "Play! Pokémon Prize Pack, Cosmos Holo",
+        "Play! Pokémon Prize Pack, Non-holo",
+        "Premier Ball League",
+        "Premier Ball League (Judge)"
+      ]
+    },
+    {
+      "name": "Leafeon",
+      "number": "005/131",
+      "rarity": "Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo"
+      ]
+    },
+    {
+      "name": "Leafeon ex",
+      "number": "006/131",
+      "rarity": "Double Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Cottonee",
+      "number": "007/131",
+      "rarity": "Common",
+      "energyType": "Grass",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Whimsicott",
+      "number": "008/131",
+      "rarity": "Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Applin",
+      "number": "009/131",
+      "rarity": "Common",
+      "energyType": "Grass",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Dipplin",
+      "number": "010/131",
+      "rarity": "Uncommon",
+      "energyType": "Grass",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Hydrapple ex",
+      "number": "011/131",
+      "rarity": "Double Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "number": "012/131",
+      "rarity": "Double Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Flareon",
+      "number": "013/131",
+      "rarity": "Rare",
+      "energyType": "Fire",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo"
+      ]
+    },
+    {
+      "name": "Flareon ex",
+      "number": "014/131",
+      "rarity": "Double Rare",
+      "energyType": "Fire",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Litleo",
+      "number": "015/131",
+      "rarity": "Common",
+      "energyType": "Fire",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Pyroar",
+      "number": "016/131",
+      "rarity": "Uncommon",
+      "energyType": "Fire",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon ex",
+      "number": "017/131",
+      "rarity": "Double Rare",
+      "energyType": "Fire",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Slowpoke",
+      "number": "018/131",
+      "rarity": "Common",
+      "energyType": "Water",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Slowking",
+      "number": "019/131",
+      "rarity": "Uncommon",
+      "energyType": "Water",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Goldeen",
+      "number": "020/131",
+      "rarity": "Common",
+      "energyType": "Water",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Seaking",
+      "number": "021/131",
+      "rarity": "Uncommon",
+      "energyType": "Water",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Vaporeon",
+      "number": "022/131",
+      "rarity": "Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo"
+      ]
+    },
+    {
+      "name": "Vaporeon ex",
+      "number": "023/131",
+      "rarity": "Double Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Suicune",
+      "number": "024/131",
+      "rarity": "Uncommon",
+      "energyType": "Water",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Glaceon",
+      "number": "025/131",
+      "rarity": "Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo"
+      ]
+    },
+    {
+      "name": "Glaceon ex",
+      "number": "026/131",
+      "rarity": "Double Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo",
+        "Holiday Calendar 2025",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "number": "027/131",
+      "rarity": "Double Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Pikachu ex",
+      "number": "028/131",
+      "rarity": "Double Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Jolteon",
+      "number": "029/131",
+      "rarity": "Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo"
+      ]
+    },
+    {
+      "name": "Jolteon ex",
+      "number": "030/131",
+      "rarity": "Double Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Iron Hands ex",
+      "number": "031/131",
+      "rarity": "Double Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Iron Thorns ex",
+      "number": "032/131",
+      "rarity": "Double Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Espeon",
+      "number": "033/131",
+      "rarity": "Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo"
+      ]
+    },
+    {
+      "name": "Espeon ex",
+      "number": "034/131",
+      "rarity": "Double Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Duskull",
+      "number": "035/131",
+      "rarity": "Common",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Dusclops",
+      "number": "036/131",
+      "rarity": "Common",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Dusknoir",
+      "number": "037/131",
+      "rarity": "Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Spritzee",
+      "number": "038/131",
+      "rarity": "Common",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Aromatisse",
+      "number": "039/131",
+      "rarity": "Common",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Sylveon",
+      "number": "040/131",
+      "rarity": "Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo",
+        "Pokémon Day 2025"
+      ]
+    },
+    {
+      "name": "Sylveon ex",
+      "number": "041/131",
+      "rarity": "Double Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Scream Tail",
+      "number": "042/131",
+      "rarity": "Uncommon",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Flutter Mane",
+      "number": "043/131",
+      "rarity": "Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Munkidori",
+      "number": "044/131",
+      "rarity": "Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Fezandipiti",
+      "number": "045/131",
+      "rarity": "Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Iron Boulder",
+      "number": "046/131",
+      "rarity": "Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Larvitar",
+      "number": "047/131",
+      "rarity": "Common",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Pupitar",
+      "number": "048/131",
+      "rarity": "Common",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Groudon",
+      "number": "049/131",
+      "rarity": "Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Riolu",
+      "number": "050/131",
+      "rarity": "Common",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Lucario ex",
+      "number": "051/131",
+      "rarity": "Double Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo",
+        "Prismatic Evolutions Stamp",
+        "Prismatic Evolutions Stamp, Jumbo Size"
+      ]
+    },
+    {
+      "name": "Hippopotas",
+      "number": "052/131",
+      "rarity": "Common",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Hippowdon",
+      "number": "053/131",
+      "rarity": "Common",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Bloodmoon Ursaluna",
+      "number": "054/131",
+      "rarity": "Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Great Tusk",
+      "number": "055/131",
+      "rarity": "Uncommon",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "number": "056/131",
+      "rarity": "Double Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Okidogi",
+      "number": "057/131",
+      "rarity": "Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "number": "058/131",
+      "rarity": "Double Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Umbreon",
+      "number": "059/131",
+      "rarity": "Rare",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Cosmos Holo"
+      ]
+    },
+    {
+      "name": "Umbreon ex",
+      "number": "060/131",
+      "rarity": "Double Rare",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Sneasel",
+      "number": "061/131",
+      "rarity": "Common",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Houndour",
+      "number": "062/131",
+      "rarity": "Common",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Houndoom",
+      "number": "063/131",
+      "rarity": "Common",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Tyranitar ex",
+      "number": "064/131",
+      "rarity": "Double Rare",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal Holo",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Roaring Moon",
+      "number": "065/131",
+      "rarity": "Rare",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Bronzor",
+      "number": "066/131",
+      "rarity": "Common",
+      "energyType": "Metal",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Bronzong",
+      "number": "067/131",
+      "rarity": "Uncommon",
+      "energyType": "Metal",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Heatran",
+      "number": "068/131",
+      "rarity": "Uncommon",
+      "energyType": "Metal",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Duraludon",
+      "number": "069/131",
+      "rarity": "Common",
+      "energyType": "Metal",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Archaludon",
+      "number": "070/131",
+      "rarity": "Rare",
+      "energyType": "Metal",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Dreepy",
+      "number": "071/131",
+      "rarity": "Common",
+      "energyType": "Dragon",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Drakloak",
+      "number": "072/131",
+      "rarity": "Common",
+      "energyType": "Dragon",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Dragapult ex",
+      "number": "073/131",
+      "rarity": "Double Rare",
+      "energyType": "Dragon",
+      "variants": [
+        "Normal Holo",
+        "Jumbo Size"
+      ]
+    },
+    {
+      "name": "Eevee",
+      "number": "074/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Pokémon Day 2025"
+      ]
+    },
+    {
+      "name": "Eevee ex",
+      "number": "075/131",
+      "rarity": "Double Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack",
+        "Prismatic Evolutions Stamp"
+      ]
+    },
+    {
+      "name": "Snorlax ex",
+      "number": "076/131",
+      "rarity": "Double Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo",
+        "Prismatic Evolutions Stamp",
+        "Prismatic Evolutions Stamp, Jumbo Size"
+      ]
+    },
+    {
+      "name": "Hoothoot",
+      "number": "077/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Noctowl",
+      "number": "078/131",
+      "rarity": "Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Dunsparce",
+      "number": "079/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Dudunsparce",
+      "number": "080/131",
+      "rarity": "Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Miltank",
+      "number": "081/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Lugia ex",
+      "number": "082/131",
+      "rarity": "Double Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo",
+        "Prismatic Evolutions Stamp",
+        "Prismatic Evolutions Stamp, Jumbo Size"
+      ]
+    },
+    {
+      "name": "Buneary",
+      "number": "083/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Lopunny",
+      "number": "084/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Fan Rotom",
+      "number": "085/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Regigigas",
+      "number": "086/131",
+      "rarity": "Uncommon",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo",
+        "Gym",
+        "Play! Pokémon Prize Pack, Non-holo"
+      ]
+    },
+    {
+      "name": "Shaymin",
+      "number": "087/131",
+      "rarity": "Uncommon",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Furfrou",
+      "number": "088/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Hawlucha",
+      "number": "089/131",
+      "rarity": "Uncommon",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Noibat",
+      "number": "090/131",
+      "rarity": "Common",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Master Ball Holo"
+      ]
+    },
+    {
+      "name": "Noivern ex",
+      "number": "091/131",
+      "rarity": "Double Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Terapagos ex",
+      "number": "092/131",
+      "rarity": "Double Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Amarys",
+      "number": "093/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Area Zero Underdepths",
+      "number": "094/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Binding Mochi",
+      "number": "095/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Black Belt's Training",
+      "number": "096/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Black Belt's Training",
+      "number": "097/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Black Belt's Training",
+      "number": "098/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Black Belt's Training",
+      "number": "099/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Briar",
+      "number": "100/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Buddy-Buddy Poffin",
+      "number": "101/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Bug Catching Set",
+      "number": "102/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Carmine",
+      "number": "103/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Ciphermaniac's Codebreaking",
+      "number": "104/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Crispin",
+      "number": "105/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Earthen Vessel",
+      "number": "106/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Explorer's Guidance",
+      "number": "107/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Festival Grounds",
+      "number": "108/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Friends in Paldea",
+      "number": "109/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Glass Trumpet",
+      "number": "110/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Haban Berry",
+      "number": "111/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Janine's Secret Art",
+      "number": "112/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Kieran",
+      "number": "113/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Lacey",
+      "number": "114/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Larry's Skill",
+      "number": "115/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Max Rod",
+      "number": "116/131",
+      "rarity": "ACE SPEC Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo",
+        "Play! Pokémon Prize Pack"
+      ]
+    },
+    {
+      "name": "Maximum Belt",
+      "number": "117/131",
+      "rarity": "ACE SPEC Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Ogre's Mask",
+      "number": "118/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Prime Catcher",
+      "number": "119/131",
+      "rarity": "ACE SPEC Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Professor Sada's Vitality",
+      "number": "120/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Professor Turo's Scenario",
+      "number": "121/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Professor's Research",
+      "number": "122/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Professor Program"
+      ]
+    },
+    {
+      "name": "Professor's Research",
+      "number": "123/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Professor Program"
+      ]
+    },
+    {
+      "name": "Professor's Research",
+      "number": "124/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Professor Program"
+      ]
+    },
+    {
+      "name": "Professor's Research",
+      "number": "125/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo",
+        "Professor Program"
+      ]
+    },
+    {
+      "name": "Rescue Board",
+      "number": "126/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Roto-Stick",
+      "number": "127/131",
+      "rarity": "Common",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Scoop Up Cyclone",
+      "number": "128/131",
+      "rarity": "ACE SPEC Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Sparkling Crystal",
+      "number": "129/131",
+      "rarity": "ACE SPEC Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Techno Radar",
+      "number": "130/131",
+      "rarity": "Uncommon",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal",
+        "Reverse Holo",
+        "Poké Ball Holo"
+      ]
+    },
+    {
+      "name": "Treasure Tracker",
+      "number": "131/131",
+      "rarity": "ACE SPEC Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Amarys",
+      "number": "132/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Atticus",
+      "number": "133/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Atticus",
+      "number": "134/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Brassius",
+      "number": "135/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo",
+        "Professor Program"
+      ]
+    },
+    {
+      "name": "Eri",
+      "number": "136/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Friends in Paldea",
+      "number": "137/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Giacomo",
+      "number": "138/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Larry's Skill",
+      "number": "139/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Mela",
+      "number": "140/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Ortega",
+      "number": "141/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Raifort",
+      "number": "142/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Tyme",
+      "number": "143/131",
+      "rarity": "Ultra Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Leafeon ex",
+      "number": "144/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "number": "145/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Flareon ex",
+      "number": "146/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Fire",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Ceruledge ex",
+      "number": "147/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Fire",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Hearthflame Mask Ogerpon ex",
+      "number": "148/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Fire",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Vaporeon ex",
+      "number": "149/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Glaceon ex",
+      "number": "150/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Palafin ex",
+      "number": "151/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Wellspring Mask Ogerpon ex",
+      "number": "152/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Jolteon ex",
+      "number": "153/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Iron Hands ex",
+      "number": "154/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Espeon ex",
+      "number": "155/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Sylveon ex",
+      "number": "156/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Iron Valiant ex",
+      "number": "157/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Iron Crown ex",
+      "number": "158/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Psychic",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Sandy Shocks ex",
+      "number": "159/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Cornerstone Mask Ogerpon ex",
+      "number": "160/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Fighting",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Umbreon ex",
+      "number": "161/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Roaring Moon ex",
+      "number": "162/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Pecharunt ex",
+      "number": "163/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Darkness",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Gholdengo ex",
+      "number": "164/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Metal",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Dragapult ex",
+      "number": "165/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Dragon",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Raging Bolt ex",
+      "number": "166/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Dragon",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Eevee ex",
+      "number": "167/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Bloodmoon Ursaluna ex",
+      "number": "168/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Terapagos ex",
+      "number": "169/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Amarys",
+      "number": "170/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Crispin",
+      "number": "171/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Drayton",
+      "number": "172/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Janine's Secret Art",
+      "number": "173/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Kieran",
+      "number": "174/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Lacey",
+      "number": "175/131",
+      "rarity": "Special Illustration Rare",
+      "energyType": "Trainer",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Iron Leaves ex",
+      "number": "176/131",
+      "rarity": "Hyper Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Teal Mask Ogerpon ex",
+      "number": "177/131",
+      "rarity": "Hyper Rare",
+      "energyType": "Grass",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Walking Wake ex",
+      "number": "178/131",
+      "rarity": "Hyper Rare",
+      "energyType": "Water",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Pikachu ex",
+      "number": "179/131",
+      "rarity": "Hyper Rare",
+      "energyType": "Lightning",
+      "variants": [
+        "Normal Holo"
+      ]
+    },
+    {
+      "name": "Terapagos ex",
+      "number": "180/131",
+      "rarity": "Hyper Rare",
+      "energyType": "Colorless",
+      "variants": [
+        "Normal Holo"
+      ]
+    }
+  ],
+  "scrapedAt": "2025-10-27T23:05:09.266Z"
+}
