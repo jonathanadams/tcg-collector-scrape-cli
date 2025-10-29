@@ -105,7 +105,6 @@ export async function tcgCollectorScraper(
     );
 
     scrapedCards.push({ ...data, variants });
-    console.log(`✅ ${data.name}: ${variants.join(", ") || "No variants"}`);
   }
 
   return {

@@ -3,56 +3,10 @@ import puppeteer from "puppeteer";
 import chalk from "chalk";
 import fs from "fs";
 import path from "path";
-import camelCase from "lodash/camelCase.js";
 
 import { loadCookies, hasSession } from "../utils/session.js";
-import {
-  TCGCollectorScrapedData,
-  tcgCollectorScraper,
-} from "../scrapers/tcgCollectorScraper.js";
-
-export function saveCsv(data: TCGCollectorScrapedData, outputFile: string) {
-  const { cards } = data;
-
-  // Get all unique variants across all cards
-  const variantSet = new Set<string>();
-  cards.forEach((card) => {
-    card.variants.forEach((v) => variantSet.add(v.trim()));
-  });
-  const variants = Array.from(variantSet);
-
-  // Define CSV header
-  const header = ["Card Name", "Number", "Rarity", "Energy Type", ...variants];
-
-  // Build CSV rows
-  const rows = cards.map((card) => {
-    const base = [card.name, card.number, card.rarity, card.energyType];
-    const variantFlags = variants.map((variant) =>
-      card.variants.includes(variant) ? "true" : "false"
-    );
-    return [...base, ...variantFlags];
-  });
-
-  // Combine into CSV string
-  const csvString = [header, ...rows]
-    .map((row) =>
-      row
-        .map((cell) =>
-          typeof cell === "string" && cell.includes(",")
-            ? `"${cell.replace(/"/g, '""')}"`
-            : cell
-        )
-        .join(",")
-    )
-    .join("\n");
-
-  // Save CSV
-  const outDir = path.dirname(outputFile);
-  if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
-
-  fs.writeFileSync(outputFile, csvString, "utf8");
-  console.log(chalk.green(`✅ CSV saved: ${outputFile}`));
-}
+import { tcgCollectorScraper } from "../scrapers/tcgCollectorScraper.js";
+import { saveCsv } from "../utils/saveCsv.js";
 
 export const scrapeCommand = new Command("run")
   .argument("<url>", "URL to scrape")
@@ -102,7 +56,7 @@ export const scrapeCommand = new Command("run")
 
     if (stats?.isDirectory()) {
       const dirName = outputPath;
-      const fileName = camelCase(`${scrapedData.name}scrape`) + ".json";
+      const fileName = `${scrapedData.name} Scrape` + ".json";
       outputPath = path.join(dirName, fileName);
     }
 
